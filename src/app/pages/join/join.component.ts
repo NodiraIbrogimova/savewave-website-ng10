@@ -12,4 +12,8 @@ export class JoinComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  submitForm(): void {
+    console.log('form submitted');
+  }
+
 }
