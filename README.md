@@ -1,9 +1,13 @@
 # Savewave Music app
 
 Website Template for Music App using Angular 10.1.3
+
 The app is purely built on CSS and HTML, no Bootstrap.
+
 SCSS (Sassy CSS) syntax is used for making styles more clear and concise.
+
 For more details about the design of the app, check the screenshots below.
+
 Credits for images goes to freepik.com
 
 <img width="1440" alt="Screen Shot 2020-10-27 at 10 57 58 PM" src="https://user-images.githubusercontent.com/11291840/97342664-54ba4d00-18a8-11eb-95f8-394a63fc8238.png">
